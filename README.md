@@ -4,7 +4,7 @@
 - 🔭 Participei do Basecamp de abril da 42 São Paulo.
 - 😄 Pronomes: ela/dela.
 - 🖥️ Estudando linguagem C.
-- 👯 Gosto de trabalhar em grupo.
+- 👯 Gosto de trabalhar em grupo, aprender e ensinar.
 
 <div>
   <a href="https://github.com/Gabriela-M-Silva">
