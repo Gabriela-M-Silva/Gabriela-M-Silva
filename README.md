@@ -4,10 +4,13 @@
 - 🔭 Participei do Basecamp de abril da 42 São Paulo.
 - 😄 Pronomes: ela/dela.
 - 🖥️ Estudando linguagem C.
+- 👯 Gosto de trabalhar em grupo.
 
 <div>
   <a href="https://github.com/Gabriela-M-Silva">
-  <img height="180cm" src
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Gabriela-M-Silva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriela-M-Silva&layout=compact&langs_count=16&theme=dracula"/>
+</div>
     
 
 <!--
@@ -22,5 +25,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - Estudando linguagem C. ??
+- Tenho interesse em aprender mais sobre sistemas operacionais. ???
 - ⚡ Fun fact: ...
 -->
