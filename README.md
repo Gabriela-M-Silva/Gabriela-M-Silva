@@ -12,6 +12,8 @@
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriela-M-Silva&layout=compact&langs_count=16&theme=dracula"/>
 </div>
     
+##
+
 
 <!--
 **Gabriela-M-Silva/Gabriela-M-Silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,4 +29,7 @@ Here are some ideas to get you started:
 - Estudando linguagem C. ??
 - Tenho interesse em aprender mais sobre sistemas operacionais. ???
 - ⚡ Fun fact: ...
+
+depois posso colocar os ícones das linguagens.
+para deixar os status na mesma linha é só mexer no html e css na altura e largura
 -->
