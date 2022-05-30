@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Gabriela :)
 
 - 📘 Faço Análise e Desenvolvimento de Sistemas.
-- 🔭 Participei do Basecamp de abril da 42 São Paulo.
+- 🔭 Cadete da 42 São Paulo.
 - 😄 Pronomes: ela/dela.
 - 🖥️ Estudando linguagem C.
 
