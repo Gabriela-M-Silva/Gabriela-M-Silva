@@ -1,9 +1,10 @@
-### Olá! Eu sou a Gabriela :)
+### Olá! Sou a Gabriela :)
 
-- 📘 Faço Análise e Desenvolvimento de Sistemas.
-- 🔭 Cadete da 42 São Paulo.
-- 😄 Pronomes: ela/dela.
-- 🖥️ Estudando linguagem C.
+📘 Estudante de ADS e Cadete na 42 São Paulo.
+🖥️ Principal conhecimento em linguagem C.
+🖥️ Me viro bem em Python.
+🖥️ Familiaridade com Linux.
+🖥️ E sempre aberta para novos aprendizados :)
 
 <div>
   <a href="https://github.com/Gabriela-M-Silva">
