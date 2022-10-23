@@ -1,10 +1,10 @@
-### Olá! Sou a Gabriela :)
+### Olá! Sou a Gabriela
 
-📘 Estudante de ADS e Cadete na 42 São Paulo.
-🖥️ Principal conhecimento em linguagem C.
-🖥️ Me viro bem em Python.
-🖥️ Familiaridade com Linux.
-🖥️ E sempre aberta para novos aprendizados :)
+📘 Estudante de ADS e Cadete na 42 São Paulo. <br>
+🖥️ Principal conhecimento em linguagem C. <br>
+🖥️ Me viro bem em Python. <br>
+🖥️ Familiaridade com Linux. <br>
+🖥️ E sempre aberta para novos aprendizados :) <br>
 
 <div>
   <a href="https://github.com/Gabriela-M-Silva">
