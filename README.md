@@ -2,8 +2,7 @@
 
 📘 Estudante de ADS e Cadete na 42 São Paulo. <br>
 🖥️ Principal conhecimento em linguagem C. <br>
-🖥️ Me viro bem em Python. <br>
-🖥️ Familiaridade com Linux. <br>
+🖥️ Familiaridade com Python e Linux. <br>
 🖥️ E sempre aberta para novos aprendizados :) <br>
 
 <div>
